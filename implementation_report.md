@@ -5,7 +5,7 @@ Members
 - Maliakel Paul Joe, e12012422
 - Kowarsch Florian, e11777780
 
-GitHub: https://github.com/ChrisPrein/TUW_SelfOrganizingSystems_WS2021
+GitHub: [https://github.com/ChrisPrein/TUW_SelfOrganizingSystems_WS2021](https://github.com/ChrisPrein/TUW_SelfOrganizingSystems_WS2021)
 
 ---
 
