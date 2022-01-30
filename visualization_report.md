@@ -5,6 +5,8 @@ Members
 - Maliakel Paul Joe, e12012422
 - Kowarsch Florian, e11777780
 
+GitHub: https://github.com/ChrisPrein/TUW_SelfOrganizingSystems_WS2021
+
 ---
 
 For the evaluation of the Topographic error and intrinsic distance implementations we have used two datasets and two sizes of SOM. (40x20 -small and a 100x60 - large)
