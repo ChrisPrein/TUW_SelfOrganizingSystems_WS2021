@@ -1,0 +1,37 @@
+$TYPE som
+$GRID_TOPOLOGY planar
+$GRID_LAYOUT rectangular
+$XDIM 40
+$YDIM 20
+$ZDIM 1
+$VEC_DIM 10
+$STORAGE_DATE 28/01/22, 8:28 pm
+$TRAINING_TIME 
+$LEARNRATE_TYPE exponential
+$LEARNRATE_INIT 0.7
+$NEIGHBORHOOD_TYPE exponential
+$NEIGHBORHOOD_INIT 7.0
+$RAND_INIT 17
+$ITERATIONS_TOTAL 500000
+$NR_TRAINVEC_TOTAL 850
+$ADAPTIVE_COORDINATES_THRESHOLD 
+$VEC_NORMALIZED false
+$QUANTERROR_MAP 0.2707553769294163
+$QUANTERROR_VEC 3.185357375640192E-4
+$URL_TRAINING_VEC /Users/pauljoemaliakel/IdeaProjects/TUW_SelfOrganizingSystems_WS2021/Ex3/java_somtoolbox/datasets/clusters.vec
+$URL_TRAINING_VEC_DESCR 
+$URL_WEIGHT_VEC /Users/pauljoemaliakel/IdeaProjects/TUW_SelfOrganizingSystems_WS2021/Ex3/java_somtoolbox/./cluster_40x20.wgt
+$URL_QUANTERR_MAP 
+$URL_MAPPED_INPUT_VEC 
+$URL_MAPPED_INPUT_VEC_DESCR 
+$URL_UNIT_DESCR /Users/pauljoemaliakel/IdeaProjects/TUW_SelfOrganizingSystems_WS2021/Ex3/java_somtoolbox/./cluster_40x20.unit
+$URL_TEMPLATE_VECTOR /Users/pauljoemaliakel/IdeaProjects/TUW_SelfOrganizingSystems_WS2021/Ex3/java_somtoolbox/datasets/10clusters.tv
+$URL_DATA_WINNER_MAPPING /Users/pauljoemaliakel/IdeaProjects/TUW_SelfOrganizingSystems_WS2021/Ex3/java_somtoolbox/./cluster_40x20.dwm
+$URL_CLASS_INFO 
+$URL_LABELS 
+$METRIC at.tuwien.ifs.somtoolbox.layers.metrics.L2Metric
+$LAYER_REVISION $Revision: 4300 $
+$DESCRIPTION 
+$AVAILABLE_VIS 
+$DATA_TYPE unknown
+$DATA_DIM 

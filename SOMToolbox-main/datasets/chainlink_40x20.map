@@ -1,0 +1,37 @@
+$TYPE som
+$GRID_TOPOLOGY planar
+$GRID_LAYOUT rectangular
+$XDIM 40
+$YDIM 20
+$ZDIM 1
+$VEC_DIM 3
+$STORAGE_DATE 28/01/22, 7:27 pm
+$TRAINING_TIME 
+$LEARNRATE_TYPE exponential
+$LEARNRATE_INIT 0.7
+$NEIGHBORHOOD_TYPE exponential
+$NEIGHBORHOOD_INIT 6.0
+$RAND_INIT 17
+$ITERATIONS_TOTAL 1000000
+$NR_TRAINVEC_TOTAL 1000
+$ADAPTIVE_COORDINATES_THRESHOLD 
+$VEC_NORMALIZED false
+$QUANTERROR_MAP 0.017526772847565354
+$QUANTERROR_VEC 1.7526772847565355E-5
+$URL_TRAINING_VEC /Users/pauljoemaliakel/IdeaProjects/TUW_SelfOrganizingSystems_WS2021/Ex3/java_somtoolbox/datasets/chainlink.vec
+$URL_TRAINING_VEC_DESCR 
+$URL_WEIGHT_VEC /Users/pauljoemaliakel/IdeaProjects/TUW_SelfOrganizingSystems_WS2021/Ex3/java_somtoolbox/./chainlink_40x20.wgt
+$URL_QUANTERR_MAP 
+$URL_MAPPED_INPUT_VEC 
+$URL_MAPPED_INPUT_VEC_DESCR 
+$URL_UNIT_DESCR /Users/pauljoemaliakel/IdeaProjects/TUW_SelfOrganizingSystems_WS2021/Ex3/java_somtoolbox/./chainlink_40x20.unit
+$URL_TEMPLATE_VECTOR /Users/pauljoemaliakel/IdeaProjects/TUW_SelfOrganizingSystems_WS2021/Ex3/java_somtoolbox/datasets/chainlink.tv
+$URL_DATA_WINNER_MAPPING /Users/pauljoemaliakel/IdeaProjects/TUW_SelfOrganizingSystems_WS2021/Ex3/java_somtoolbox/./chainlink_40x20.dwm
+$URL_CLASS_INFO 
+$URL_LABELS 
+$METRIC at.tuwien.ifs.somtoolbox.layers.metrics.L2Metric
+$LAYER_REVISION $Revision: 4300 $
+$DESCRIPTION 
+$AVAILABLE_VIS 
+$DATA_TYPE unknown
+$DATA_DIM 
